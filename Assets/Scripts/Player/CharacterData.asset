@@ -15,8 +15,12 @@ MonoBehaviour:
   <Name>k__BackingField: 
   <Prefab>k__BackingField: {fileID: 0}
   <Stats>k__BackingField:
-    <Health>k__BackingField: 11
-    <MoveSpeed>k__BackingField: 1
-    <FireResist>k__BackingField: 1
-    <FrostResist>k__BackingField: 1
-    <PoisonResist>k__BackingField: 1
+  - <Name>k__BackingField: Attack
+    <Modifiers>k__BackingField: []
+    <BaseValue>k__BackingField: 0
+  - <Name>k__BackingField: Krit
+    <Modifiers>k__BackingField: []
+    <BaseValue>k__BackingField: 0
+  - <Name>k__BackingField: Avasion
+    <Modifiers>k__BackingField: []
+    <BaseValue>k__BackingField: 0
